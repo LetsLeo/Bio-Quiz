@@ -73,7 +73,7 @@ function resetGame() {
       anim: 0,
       flap: 0,
     };
-    gravity = 0.34; // etwas weniger Gravitation -> mehr gleiten
+    gravity = 0.18; // etwas weniger Gravitation -> mehr gleiten
     jumpStrength = -7.0;
     obstacleSpeed = 3.8;
     backgroundAnim = 0;
