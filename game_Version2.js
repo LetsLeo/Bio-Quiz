@@ -66,7 +66,7 @@ function startGame(mode) {
 function resetGame() {
   if (gameMode === "kolibri") {
     player = {
-      x: 38, // weiter hinten für mehr Reaktionszeit
+      x: 50, // weiter hinten für mehr Reaktionszeit
       y: canvas.height / 2,
       r: 22,
       vy: 0,
